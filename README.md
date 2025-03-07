@@ -13,3 +13,5 @@ I created a Movie Recommendation System built using Python and implemented in Go
 
  Working on this project helped me strengthen my understanding of machine learning, natural language processing, and data science techniques. It was a great learning experience as part of my CodSoft Internship, and I look forward to building more advanced recommendation systems using collaborative filtering and deep learning.
 
+ ![Image](https://github.com/user-attachments/assets/c6f0384c-e0ca-4b6d-9d8f-38885cb9a963)
+
